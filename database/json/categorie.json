@@ -1,0 +1,22 @@
+[
+    { "name": "Technology" },
+    { "name": "Health" },
+    { "name": "Travel" },
+    { "name": "Food" },
+    { "name": "Lifestyle" },
+    { "name": "Education" },
+    { "name": "Finance" },
+    { "name": "Business" },
+    { "name": "Entertainment" },
+    { "name": "Fashion" },
+    { "name": "Sports" },
+    { "name": "Parenting" },
+    { "name": "DIY" },
+    { "name": "Photography" },
+    { "name": "Gaming" },
+    { "name": "Science" },
+    { "name": "Politics" },
+    { "name": "Environment" },
+    { "name": "Culture" },
+    { "name": "Productivity" }
+]
